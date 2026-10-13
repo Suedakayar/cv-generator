@@ -137,6 +137,6 @@ Bu projede dil modeli olarak **Claude** (Anthropic) sohbet arayüzünden yardım
 - Üretilen PDF'i kontrol ettim, ad ve yerleşim düzeltmelerini kendim yönlendirdim.
 - Kodun her bölümünün ne işe yaradığını inceleyip bu belgeyi ve el yazısı A4 raporunu hazırladım.
 
-**Öğrendiklerim:** Kapsülleme, `final` ve `private` kullanımı, `unmodifiableList` ile listelerin korunması, sorumlulukların ayrı sınıflara dağıtılması, `try-with-resources` ile kaynak yönetimi ve nesne yaşam döngüsü.
+**Öğrendiklerim:** Kapsülleme, `final` ve `private` kullanımı, `unmodifiableList` ile listelerin korunması, sorumlulukların ayrı sınıflara dağıtılması, `try-with-resources` ile kaynak yönetimi ve nesne yaşam döngüsünü öğrendim.
 
-> Bu bölümü kendi deneyimine göre düzenle: hangi komutları sen yazdın, hangi öneriyi neden değiştirdin, hangi hatayı nasıl çözdün gibi somut örnekler eklemen belgeyi daha inandırıcı yapar.
+
